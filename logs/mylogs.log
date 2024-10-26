@@ -1,0 +1,1397 @@
+20241015 20:58:39 INFO  [main] example.LogTests LogTests.java28 - test1 passed
+20241015 20:58:39 INFO  [main] example.LogTests LogTests.java36 - test2 started
+20241015 20:58:39 INFO  [main] example.LogTests LogTests.java42 - test3 started
+20241015 21:58:31 INFO  [main] base.BaseSalesForce BaseSalesForce.java36 - *******************setUpBeforeMethod*********************
+20241015 21:58:35 INFO  [main] base.BaseSalesForce BaseSalesForce.java46 - *******************tearDownAfterTestMethod*********************
+20241015 21:58:35 INFO  [main] base.BaseSalesForce BaseSalesForce.java36 - *******************setUpBeforeMethod*********************
+20241015 21:58:42 INFO  [main] base.BaseSalesForce BaseSalesForce.java46 - *******************tearDownAfterTestMethod*********************
+20241015 21:58:42 INFO  [main] base.BaseSalesForce BaseSalesForce.java36 - *******************setUpBeforeMethod*********************
+20241015 21:58:45 INFO  [main] base.BaseSalesForce BaseSalesForce.java46 - *******************tearDownAfterTestMethod*********************
+20241015 22:01:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java36 - *******************setUpBeforeMethod*********************
+20241015 22:01:54 INFO  [main] base.BaseSalesForce BaseSalesForce.java46 - *******************tearDownAfterTestMethod*********************
+20241015 22:01:54 INFO  [main] base.BaseSalesForce BaseSalesForce.java36 - *******************setUpBeforeMethod*********************
+20241015 22:02:01 INFO  [main] base.BaseSalesForce BaseSalesForce.java46 - *******************tearDownAfterTestMethod*********************
+20241015 22:02:01 INFO  [main] base.BaseSalesForce BaseSalesForce.java36 - *******************setUpBeforeMethod*********************
+20241015 22:02:03 INFO  [main] tests.LoginTests LoginTests.java105 - We’ve sent you an email with a link to finish resetting your password.
+20241015 22:02:03 INFO  [main] tests.LoginTests LoginTests.java108 - Test case passed
+20241015 22:02:04 INFO  [main] base.BaseSalesForce BaseSalesForce.java46 - *******************tearDownAfterTestMethod*********************
+20241015 22:05:57 INFO  [main] base.BaseSalesForce BaseSalesForce.java36 - *******************setUpBeforeMethod*********************
+20241015 22:06:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java46 - *******************tearDownAfterTestMethod*********************
+20241015 22:06:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java36 - *******************setUpBeforeMethod*********************
+20241015 22:06:07 INFO  [main] base.BaseSalesForce BaseSalesForce.java46 - *******************tearDownAfterTestMethod*********************
+20241015 22:06:07 INFO  [main] base.BaseSalesForce BaseSalesForce.java36 - *******************setUpBeforeMethod*********************
+20241015 22:06:09 INFO  [main] tests.LoginTests LoginTests.java110 - We’ve sent you an email with a link to finish resetting your password.
+20241015 22:06:09 INFO  [main] tests.LoginTests LoginTests.java113 - Test case passed
+20241015 22:06:09 INFO  [main] base.BaseSalesForce BaseSalesForce.java46 - *******************tearDownAfterTestMethod*********************
+20241015 22:11:13 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241015 22:11:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241015 22:11:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241015 22:11:23 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241015 22:11:23 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241015 22:11:26 INFO  [main] tests.LoginTests LoginTests.java110 - We’ve sent you an email with a link to finish resetting your password.
+20241015 22:11:26 INFO  [main] tests.LoginTests LoginTests.java113 - Test case passed
+20241015 22:11:26 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 09:06:33 INFO  [main] example.LogTests LogTests.java45 - test1 passed
+20241016 09:06:33 INFO  [main] example.LogTests LogTests.java58 - test2 started
+20241016 09:06:33 INFO  [main] example.LogTests LogTests.java66 - test3 started
+20241016 09:07:37 ERROR [main] example.LogTests LogTests.java49 - test1 failure
+20241016 09:07:37 INFO  [main] example.LogTests LogTests.java58 - test2 started
+20241016 09:07:37 INFO  [main] example.LogTests LogTests.java66 - test3 started
+20241016 09:34:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 09:34:57 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 09:34:57 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 09:35:05 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 09:35:05 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 09:35:08 INFO  [main] tests.LoginTests LoginTests.java110 - We’ve sent you an email with a link to finish resetting your password.
+20241016 09:35:08 INFO  [main] tests.LoginTests LoginTests.java113 - Test case passed
+20241016 09:35:08 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 09:59:53 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 09:59:56 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username
+20241016 09:59:56 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 09:59:56 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 09:59:58 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username
+20241016 09:59:58 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 09:59:58 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:00:00 INFO  [main] base.BaseTest BaseTest.java114 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241016 10:00:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:16:31 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:16:35 INFO  [main] base.BaseTest BaseTest.java114 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241016 10:16:35 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:17:45 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - SalesForceLoginTest started...............
+20241016 10:17:46 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:17:49 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241016 10:17:49 INFO  [main] base.BaseTest BaseTest.java114 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241016 10:17:50 INFO  [main] base.BaseTest BaseTest.java80 - Forgot your password is clicked
+20241016 10:17:51 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username email
+20241016 10:17:51 INFO  [main] base.BaseTest BaseTest.java80 - Continue is clicked
+20241016 10:17:52 INFO  [main] tests.LoginTests LoginTests.java115 - We’ve sent you an email with a link to finish resetting your password.
+20241016 10:17:52 INFO  [main] tests.LoginTests LoginTests.java118 - Test case passed
+20241016 10:17:52 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4A_ForgotPassword ended with success......................
+20241016 10:17:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:17:52 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - SalesForceLoginTest ended.................
+20241016 10:23:17 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - SalesForceLoginTest started...............
+20241016 10:23:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:23:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241016 10:23:21 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username
+20241016 10:23:21 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the password
+20241016 10:23:21 INFO  [main] tests.LoginTests LoginTests.java28 - login blank pwd test completed
+20241016 10:23:21 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241016 10:23:21 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:23:21 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:23:23 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241016 10:23:24 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username
+20241016 10:23:25 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the password
+20241016 10:23:29 INFO  [main] tests.LoginTests LoginTests.java37 - valid login test completed
+20241016 10:23:29 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241016 10:23:29 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:23:29 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:23:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241016 10:23:31 INFO  [main] base.BaseTest BaseTest.java114 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241016 10:23:31 INFO  [main] base.BaseTest BaseTest.java80 - Forgot your password is clicked
+20241016 10:23:32 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username email
+20241016 10:23:32 INFO  [main] base.BaseTest BaseTest.java80 - Continue is clicked
+20241016 10:23:32 INFO  [main] tests.LoginTests LoginTests.java115 - We’ve sent you an email with a link to finish resetting your password.
+20241016 10:23:32 INFO  [main] tests.LoginTests LoginTests.java118 - Test case passed
+20241016 10:23:32 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4A_ForgotPassword ended with success......................
+20241016 10:23:32 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:23:32 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - SalesForceLoginTest ended.................
+20241016 10:29:31 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:29:35 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username
+20241016 10:29:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:29:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:29:38 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username
+20241016 10:29:39 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:29:39 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:29:41 INFO  [main] base.BaseTest BaseTest.java114 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241016 10:29:41 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:36:42 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241016 10:36:42 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:36:44 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241016 10:36:45 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username
+20241016 10:36:45 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the password
+20241016 10:36:45 INFO  [main] tests.LoginTests LoginTests.java31 - login blank pwd test completed
+20241016 10:36:45 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241016 10:36:46 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:36:46 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:36:47 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241016 10:36:47 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username
+20241016 10:36:48 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the password
+20241016 10:36:52 INFO  [main] tests.LoginTests LoginTests.java40 - valid login test completed
+20241016 10:36:52 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241016 10:36:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:36:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - *******************setUpBeforeMethod*********************
+20241016 10:36:54 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241016 10:36:54 INFO  [main] base.BaseTest BaseTest.java114 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241016 10:36:54 INFO  [main] base.BaseTest BaseTest.java80 - Forgot your password is clicked
+20241016 10:36:54 INFO  [main] base.BaseTest BaseTest.java67 - data is entered in the username email
+20241016 10:36:55 INFO  [main] base.BaseTest BaseTest.java80 - Continue is clicked
+20241016 10:36:55 INFO  [main] tests.LoginTests LoginTests.java118 - We’ve sent you an email with a link to finish resetting your password.
+20241016 10:36:55 INFO  [main] tests.LoginTests LoginTests.java121 - Test case passed
+20241016 10:36:55 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4A_ForgotPassword ended with success......................
+20241016 10:36:55 INFO  [main] base.BaseSalesForce BaseSalesForce.java49 - *******************tearDownAfterTestMethod*********************
+20241016 10:36:55 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241016 23:21:06 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241016 23:21:06 INFO  [main] base.BaseTest BaseTest.java40 - *******************setUpBeforeMethod*********************
+20241016 23:21:10 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241016 23:21:11 INFO  [main] base.BasePage BasePage.java33 - data is entered in the username
+20241016 23:21:11 INFO  [main] base.BasePage BasePage.java33 - data is entered in the password
+20241016 23:21:11 INFO  [main] base.BasePage BasePage.java45 - Login button is clicked
+20241016 23:21:11 INFO  [main] base.BasePage BasePage.java129 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241016 23:22:12 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC2SalesforceLoginValid ended with failure.....................
+20241016 23:22:12 INFO  [main] base.BaseTest BaseTest.java50 - *******************tearDownAfterTestMethod*********************
+20241016 23:22:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241016 23:22:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241016 23:22:32 INFO  [main] base.BaseTest BaseTest.java40 - *******************setUpBeforeMethod*********************
+20241016 23:22:34 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241016 23:22:34 INFO  [main] base.BasePage BasePage.java33 - data is entered in the username
+20241016 23:22:35 INFO  [main] base.BasePage BasePage.java33 - data is entered in the password
+20241016 23:22:35 INFO  [main] base.BasePage BasePage.java45 - Login button is clicked
+20241016 23:22:35 INFO  [main] base.BasePage BasePage.java129 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241016 23:23:35 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC2SalesforceLoginValid ended with failure.....................
+20241016 23:23:35 INFO  [main] base.BaseTest BaseTest.java50 - *******************tearDownAfterTestMethod*********************
+20241016 23:23:36 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241016 23:28:34 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241016 23:28:34 INFO  [main] base.BaseTest BaseTest.java40 - *******************setUpBeforeMethod*********************
+20241016 23:28:36 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241016 23:28:37 INFO  [main] base.BasePage BasePage.java33 - data is entered in the username
+20241016 23:28:37 INFO  [main] base.BasePage BasePage.java33 - data is entered in the password
+20241016 23:28:40 INFO  [main] base.BasePage BasePage.java45 - Login button is clicked
+20241016 23:28:40 INFO  [main] base.BasePage BasePage.java129 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241016 23:28:42 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Getting Started Home page header
+20241016 23:28:42 INFO  [main] tests.LoginTests LoginTests.java79 - valid login test completed
+20241016 23:28:42 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241016 23:28:42 INFO  [main] base.BaseTest BaseTest.java50 - *******************tearDownAfterTestMethod*********************
+20241016 23:28:42 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241016 23:29:04 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241016 23:29:04 INFO  [main] base.BaseTest BaseTest.java40 - *******************setUpBeforeMethod*********************
+20241016 23:29:35 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241016 23:29:36 INFO  [main] base.BasePage BasePage.java33 - data is entered in the username
+20241016 23:29:37 INFO  [main] base.BasePage BasePage.java33 - data is entered in the password
+20241016 23:29:37 INFO  [main] tests.LoginTests LoginTests.java45 - login blank pwd test completed
+20241016 23:29:37 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241016 23:29:37 INFO  [main] base.BaseTest BaseTest.java50 - *******************tearDownAfterTestMethod*********************
+20241016 23:29:37 INFO  [main] base.BaseTest BaseTest.java40 - *******************setUpBeforeMethod*********************
+20241016 23:29:41 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241016 23:29:41 INFO  [main] base.BasePage BasePage.java33 - data is entered in the username
+20241016 23:29:41 INFO  [main] base.BasePage BasePage.java33 - data is entered in the password
+20241016 23:29:42 INFO  [main] base.BasePage BasePage.java45 - Login button is clicked
+20241016 23:29:42 INFO  [main] base.BasePage BasePage.java129 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241016 23:29:44 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Getting Started Home page header
+20241016 23:29:44 INFO  [main] tests.LoginTests LoginTests.java79 - valid login test completed
+20241016 23:29:44 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241016 23:29:44 INFO  [main] base.BaseTest BaseTest.java50 - *******************tearDownAfterTestMethod*********************
+20241016 23:29:44 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 00:20:07 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241017 00:20:07 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:20:11 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241017 00:20:14 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 00:20:14 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 00:20:14 INFO  [main] tests.LoginTests LoginTests.java33 - login blank pwd test completed
+20241017 00:20:14 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241017 00:20:15 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 00:20:15 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:20:18 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241017 00:20:20 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 00:20:21 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 00:20:21 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 00:20:21 INFO  [main] base.BasePage BasePage.java138 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241017 00:20:23 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Getting Started Home page header
+20241017 00:20:23 INFO  [main] tests.LoginTests LoginTests.java53 - valid login test completed
+20241017 00:20:23 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241017 00:20:24 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 00:20:24 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:20:26 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4B_ValidateLoginErrorMsg started..................
+20241017 00:20:28 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 00:20:29 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 00:20:29 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 00:20:29 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Wrong password error message for maximum of 30sec
+20241017 00:20:30 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Invalid login error msg
+20241017 00:20:30 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4B_ValidateLoginErrorMsg ended with success......................
+20241017 00:20:31 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 00:20:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 00:55:23 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241017 00:55:23 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:56:51 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 00:56:52 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 00:57:22 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC4A_ForgotPassword ended with failure.....................
+20241017 00:57:22 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 00:57:23 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241017 00:57:23 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:57:25 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 00:57:26 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 00:57:27 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241017 00:57:27 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 00:57:28 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241017 00:57:28 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241017 00:57:28 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241017 00:57:28 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4A_ForgotPassword ended with success......................
+20241017 00:57:28 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 00:57:28 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 00:57:41 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241017 00:57:41 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:57:43 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241017 00:57:44 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 00:57:44 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 00:57:44 INFO  [main] tests.LoginTests LoginTests.java34 - login blank pwd test completed
+20241017 00:57:44 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241017 00:57:44 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 00:57:44 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:57:46 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241017 00:57:47 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 00:57:47 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 00:57:48 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 00:57:48 INFO  [main] base.BasePage BasePage.java138 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241017 00:57:50 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Getting Started Home page header
+20241017 00:57:50 INFO  [main] tests.LoginTests LoginTests.java54 - valid login test completed
+20241017 00:57:50 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241017 00:57:50 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 00:57:50 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:57:51 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 00:57:51 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 00:57:52 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241017 00:57:53 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 00:57:53 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241017 00:57:53 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241017 00:57:54 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241017 00:57:54 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4A_ForgotPassword ended with success......................
+20241017 00:57:54 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 00:57:54 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:57:55 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4B_ValidateLoginErrorMsg started..................
+20241017 00:57:55 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 00:57:56 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 00:57:56 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 00:57:56 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Wrong password error message for maximum of 30sec
+20241017 00:57:57 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Invalid login error msg
+20241017 00:57:57 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4B_ValidateLoginErrorMsg ended with success......................
+20241017 00:57:57 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 00:57:57 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 00:59:14 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241017 00:59:14 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 00:59:16 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241017 00:59:16 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 00:59:17 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 00:59:17 INFO  [main] tests.LoginTests LoginTests.java34 - login blank pwd test completed
+20241017 00:59:17 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241017 00:59:17 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 00:59:17 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 11:02:15 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241017 11:02:15 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 11:02:18 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 11:02:18 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 11:02:19 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241017 11:02:19 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 11:02:20 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241017 11:02:20 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241017 11:02:20 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241017 11:02:20 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC4A_ForgotPassword ended with failure.....................
+20241017 11:02:20 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 11:02:20 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 11:47:00 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - SalesForceLoginTest started...............
+20241017 11:47:00 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 11:47:03 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241017 11:47:04 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 11:47:04 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 11:47:04 INFO  [main] tests.LoginTests LoginTests.java34 - login blank pwd test completed
+20241017 11:47:04 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241017 11:47:05 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 11:47:05 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 11:47:07 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241017 11:47:08 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 11:47:08 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 11:47:09 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 11:47:09 INFO  [main] base.BasePage BasePage.java138 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241017 11:47:11 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Getting Started Home page header
+20241017 11:47:11 INFO  [main] tests.LoginTests LoginTests.java54 - valid login test completed
+20241017 11:47:11 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241017 11:47:11 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 11:47:11 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 11:47:13 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 11:47:13 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 11:47:13 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241017 11:47:14 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 11:47:14 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241017 11:47:14 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241017 11:47:14 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241017 11:47:14 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4A_ForgotPassword ended with success......................
+20241017 11:47:14 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 11:47:14 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 11:47:16 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4B_ValidateLoginErrorMsg started..................
+20241017 11:47:17 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 11:47:17 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 11:47:18 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 11:47:18 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Wrong password error message for maximum of 30sec
+20241017 11:47:18 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Invalid login error msg
+20241017 11:47:18 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4B_ValidateLoginErrorMsg ended with success......................
+20241017 11:47:18 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 11:47:18 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - SalesForceLoginTest ended.................
+20241017 11:54:14 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - SalesForceLoginTest started...............
+20241017 11:54:14 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 11:54:17 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241017 11:54:18 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 11:54:19 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 11:54:19 INFO  [main] tests.LoginTests LoginTests.java34 - login blank pwd test completed
+20241017 11:54:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241017 11:54:19 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 11:54:19 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 11:54:20 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241017 11:54:21 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 11:54:22 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 11:54:23 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 11:54:23 INFO  [main] base.BasePage BasePage.java138 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241017 11:54:24 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Getting Started Home page header
+20241017 11:54:24 INFO  [main] tests.LoginTests LoginTests.java54 - valid login test completed
+20241017 11:54:24 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241017 11:54:25 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 11:54:25 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 11:54:26 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 11:54:26 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 11:54:27 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241017 11:54:27 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 11:54:28 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241017 11:54:28 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241017 11:54:28 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241017 11:54:28 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC4A_ForgotPassword ended with failure.....................
+20241017 11:54:28 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 11:54:28 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 11:54:30 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4B_ValidateLoginErrorMsg started..................
+20241017 11:54:30 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 11:54:31 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 11:54:32 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 11:54:32 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Wrong password error message for maximum of 30sec
+20241017 11:54:32 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Invalid login error msg
+20241017 11:54:32 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4B_ValidateLoginErrorMsg ended with success......................
+20241017 11:54:32 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 11:54:32 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - SalesForceLoginTest ended.................
+20241017 12:42:34 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241017 12:42:34 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 12:42:37 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 12:42:37 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 12:42:38 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241017 12:42:38 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 12:42:38 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241017 12:42:38 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241017 12:42:38 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241017 12:42:38 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC4A_ForgotPassword ended with failure.....................
+20241017 12:42:39 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 12:42:39 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 12:51:32 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241017 12:51:32 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 12:51:34 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 12:51:34 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 12:51:34 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241017 12:51:35 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 12:51:35 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241017 12:51:35 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241017 12:51:35 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241017 12:51:35 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC4A_ForgotPassword ended with failure.....................
+20241017 12:51:35 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 12:51:35 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 12:53:26 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241017 12:53:26 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 12:53:27 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 12:53:28 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 12:53:30 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241017 12:53:31 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 12:53:31 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241017 12:53:31 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241017 12:53:31 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241017 12:53:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4A_ForgotPassword ended with success......................
+20241017 12:53:31 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 12:53:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241017 12:54:30 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - SalesForceLoginTest started...............
+20241017 12:54:31 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 12:54:33 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241017 12:54:33 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 12:54:33 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 12:54:33 INFO  [main] tests.LoginTests LoginTests.java34 - login blank pwd test completed
+20241017 12:54:33 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241017 12:54:34 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 12:54:34 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 12:54:35 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241017 12:54:35 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 12:54:37 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 12:54:38 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 12:54:38 INFO  [main] base.BasePage BasePage.java138 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241017 12:54:39 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Getting Started Home page header
+20241017 12:54:39 INFO  [main] tests.LoginTests LoginTests.java54 - valid login test completed
+20241017 12:54:39 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241017 12:54:39 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 12:54:39 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 12:54:40 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241017 12:54:40 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241017 12:54:40 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241017 12:54:41 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 12:54:41 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241017 12:54:41 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241017 12:54:41 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241017 12:54:41 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4A_ForgotPassword ended with success......................
+20241017 12:54:41 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 12:54:41 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241017 12:54:43 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4B_ValidateLoginErrorMsg started..................
+20241017 12:54:43 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241017 12:54:45 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241017 12:54:45 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241017 12:54:45 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Wrong password error message for maximum of 30sec
+20241017 12:54:46 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Invalid login error msg
+20241017 12:54:46 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4B_ValidateLoginErrorMsg ended with success......................
+20241017 12:54:46 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241017 12:54:46 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - SalesForceLoginTest ended.................
+20241018 11:03:50 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - SalesForceLoginTest started...............
+20241018 11:03:50 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 11:04:06 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241018 11:04:08 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241018 11:04:08 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241018 11:04:08 INFO  [main] tests.LoginTests LoginTests.java34 - login blank pwd test completed
+20241018 11:04:08 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241018 11:04:08 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 11:04:08 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 11:04:10 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241018 11:04:11 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241018 11:04:11 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241018 11:04:13 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241018 11:04:13 INFO  [main] base.BasePage BasePage.java138 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241018 11:04:14 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Getting Started Home page header
+20241018 11:04:14 INFO  [main] tests.LoginTests LoginTests.java54 - valid login test completed
+20241018 11:04:14 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241018 11:04:14 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 11:04:14 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 11:04:16 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241018 11:04:16 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241018 11:04:16 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241018 11:04:16 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241018 11:04:17 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241018 11:04:17 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241018 11:04:17 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241018 11:04:17 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC4A_ForgotPassword ended with failure.....................
+20241018 11:04:17 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 11:04:17 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 11:04:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4B_ValidateLoginErrorMsg started..................
+20241018 11:04:20 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241018 11:04:20 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241018 11:04:20 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241018 11:04:20 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Wrong password error message for maximum of 30sec
+20241018 11:04:21 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Invalid login error msg
+20241018 11:04:21 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4B_ValidateLoginErrorMsg ended with success......................
+20241018 11:04:21 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 11:04:21 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - SalesForceLoginTest ended.................
+20241018 11:04:56 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241018 11:04:56 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 11:04:58 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241018 11:04:58 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241018 11:04:59 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241018 11:05:00 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241018 11:05:00 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241018 11:05:00 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241018 11:05:00 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241018 11:05:00 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC4A_ForgotPassword ended with failure.....................
+20241018 11:05:01 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 11:05:01 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241018 12:14:44 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241018 12:14:44 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 12:14:47 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241018 12:14:47 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241018 12:14:48 INFO  [main] base.BasePage BasePage.java46 - Forgot your password is clicked
+20241018 12:14:48 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241018 12:14:49 INFO  [main] base.BasePage BasePage.java46 - Continue button is clicked
+20241018 12:14:49 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Check your email message for maximum of 30sec
+20241018 12:14:49 INFO  [main] base.BasePage BasePage.java60 - text is extracted from the Check your email message
+20241018 12:14:49 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC4A_ForgotPassword ended with failure.....................
+20241018 12:14:49 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 12:14:49 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241018 13:48:18 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241018 13:48:18 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 13:48:21 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC3ValidateRememberMe started..................
+20241018 13:48:22 INFO  [main] base.BasePage BasePage.java34 - data is entered in the username
+20241018 13:48:25 INFO  [main] base.BasePage BasePage.java34 - data is entered in the password
+20241018 13:48:25 INFO  [main] base.BasePage BasePage.java46 - Remember Me checkbox  is clicked
+20241018 13:48:25 INFO  [main] base.BasePage BasePage.java46 - Login button is clicked
+20241018 13:48:25 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241018 13:48:27 INFO  [main] base.BasePage BasePage.java46 - User Menu dropdown is clicked
+20241018 13:48:27 INFO  [main] base.BasePage BasePage.java103 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241018 13:48:29 INFO  [main] base.BasePage BasePage.java46 - Logout option from User Menu is clicked
+20241018 13:48:29 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC3ValidateRememberMe ended with success......................
+20241018 13:48:30 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 13:48:30 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241018 13:58:05 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241018 13:58:05 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 13:58:07 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC3ValidateRememberMe started..................
+20241018 13:58:08 INFO  [main] base.BasePage BasePage.java39 - data is entered in the username
+20241018 13:58:08 INFO  [main] base.BasePage BasePage.java39 - data is entered in the password
+20241018 13:58:09 INFO  [main] base.BasePage BasePage.java51 - Remember Me checkbox  is clicked
+20241018 13:58:09 INFO  [main] base.BasePage BasePage.java51 - Login button is clicked
+20241018 13:58:09 INFO  [main] base.BasePage BasePage.java108 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241018 13:58:10 INFO  [main] base.BasePage BasePage.java51 - User Menu dropdown is clicked
+20241018 13:58:10 INFO  [main] base.BasePage BasePage.java108 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241018 13:58:11 INFO  [main] base.BasePage BasePage.java51 - Logout option from User Menu is clicked
+20241018 13:58:11 INFO  [main] base.BasePage BasePage.java143 - Waiting for visibility of username for maximum of 30sec
+20241018 13:58:12 INFO  [main] base.BasePage BasePage.java65 - text is extracted from the Remembered user name
+20241018 13:58:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC3ValidateRememberMe ended with success......................
+20241018 13:58:12 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 13:58:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241018 14:17:22 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241018 14:17:23 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 14:17:25 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC9_LogoutSalesForce started..................
+20241018 14:17:29 INFO  [main] base.BasePage BasePage.java108 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241018 14:17:59 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC9_LogoutSalesForce ended with failure.....................
+20241018 14:17:59 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 14:17:59 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241018 14:19:27 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241018 14:19:27 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241018 14:19:29 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC9_LogoutSalesForce started..................
+20241018 14:19:33 INFO  [main] base.BasePage BasePage.java39 - data is entered in the username
+20241018 14:19:34 INFO  [main] base.BasePage BasePage.java39 - data is entered in the password
+20241018 14:19:34 INFO  [main] base.BasePage BasePage.java51 - Login button is clicked
+20241018 14:19:34 INFO  [main] base.BasePage BasePage.java108 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241018 14:19:36 INFO  [main] base.BasePage BasePage.java51 - User Menu dropdown is clicked
+20241018 14:19:36 INFO  [main] base.BasePage BasePage.java108 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241018 14:19:37 INFO  [main] base.BasePage BasePage.java51 - Logout option from User Menu is clicked
+20241018 14:19:37 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC9_LogoutSalesForce ended with success......................
+20241018 14:19:37 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241018 14:19:37 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 13:24:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 13:24:19 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 13:24:22 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC5_UserMenuDropDown started..................
+20241019 13:24:22 INFO  [main] base.BasePage BasePage.java39 - data is entered in the username
+20241019 13:24:23 INFO  [main] base.BasePage BasePage.java39 - data is entered in the password
+20241019 13:24:24 INFO  [main] base.BasePage BasePage.java51 - Login button is clicked
+20241019 13:24:24 INFO  [main] base.BasePage BasePage.java108 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241019 13:24:25 INFO  [main] base.BasePage BasePage.java51 - User Menu dropdown is clicked
+20241019 13:24:27 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :My Profile
+20241019 13:24:27 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :My Settings
+20241019 13:24:27 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Developer Console
+20241019 13:24:27 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Switch to Lightning Experience
+20241019 13:24:28 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Logout
+20241019 13:24:28 INFO  [main] tests.LoginTests LoginTests.java164 - Test case passed
+20241019 13:24:28 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC5_UserMenuDropDown ended with success......................
+20241019 13:24:28 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 13:24:28 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 13:25:55 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 13:25:56 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 13:25:58 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC5_UserMenuDropDown started..................
+20241019 13:25:58 INFO  [main] base.BasePage BasePage.java39 - data is entered in the username
+20241019 13:25:59 INFO  [main] base.BasePage BasePage.java39 - data is entered in the password
+20241019 13:26:00 INFO  [main] base.BasePage BasePage.java51 - Login button is clicked
+20241019 13:26:00 INFO  [main] base.BasePage BasePage.java108 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241019 13:26:01 INFO  [main] base.BasePage BasePage.java51 - User Menu dropdown is clicked
+20241019 13:26:03 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :My Profile
+20241019 13:26:03 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :My Settings
+20241019 13:26:03 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Developer Console
+20241019 13:26:03 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Switch to Lightning Experience
+20241019 13:26:03 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Logout
+20241019 13:26:03 ERROR [main] tests.LoginTests LoginTests.java169 - Test case failed
+20241019 13:26:03 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC5_UserMenuDropDown ended with success......................
+20241019 13:26:03 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 13:26:03 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 13:27:06 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 13:27:06 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 13:27:08 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC5_UserMenuDropDown started..................
+20241019 13:27:09 INFO  [main] base.BasePage BasePage.java39 - data is entered in the username
+20241019 13:27:09 INFO  [main] base.BasePage BasePage.java39 - data is entered in the password
+20241019 13:27:10 INFO  [main] base.BasePage BasePage.java51 - Login button is clicked
+20241019 13:27:10 INFO  [main] base.BasePage BasePage.java108 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241019 13:27:11 INFO  [main] base.BasePage BasePage.java51 - User Menu dropdown is clicked
+20241019 13:27:13 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :My Profile
+20241019 13:27:13 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :My Settings
+20241019 13:27:13 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Developer Console
+20241019 13:27:13 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Switch to Lightning Experience
+20241019 13:27:14 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Logout
+20241019 13:27:14 ERROR [main] tests.LoginTests LoginTests.java169 - Test case failed
+20241019 13:27:14 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC5_UserMenuDropDown ended with success......................
+20241019 13:27:14 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 13:27:14 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 13:29:34 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 13:29:34 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 13:29:36 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC5_UserMenuDropDown started..................
+20241019 13:29:37 INFO  [main] base.BasePage BasePage.java39 - data is entered in the username
+20241019 13:29:37 INFO  [main] base.BasePage BasePage.java39 - data is entered in the password
+20241019 13:29:38 INFO  [main] base.BasePage BasePage.java51 - Login button is clicked
+20241019 13:29:38 INFO  [main] base.BasePage BasePage.java108 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241019 13:29:39 INFO  [main] base.BasePage BasePage.java51 - User Menu dropdown is clicked
+20241019 13:29:41 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :My Profile
+20241019 13:29:41 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :My Settings
+20241019 13:29:41 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Developer Console
+20241019 13:29:41 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Switch to Lightning Experience
+20241019 13:29:41 INFO  [main] tests.LoginTests LoginTests.java148 - dropdown values :Logout
+20241019 13:29:41 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC5_UserMenuDropDown ended with failure.....................
+20241019 13:29:42 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 13:29:42 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 21:50:05 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 21:50:05 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 21:50:07 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC10_CreateAccount started..................
+20241019 21:50:08 INFO  [main] base.BasePage BasePage.java42 - data is entered in the username
+20241019 21:50:08 INFO  [main] base.BasePage BasePage.java42 - data is entered in the password
+20241019 21:50:09 INFO  [main] base.BasePage BasePage.java54 - Login button is clicked
+20241019 21:50:09 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241019 21:50:11 INFO  [main] base.BasePage BasePage.java54 - Accounts Tab is clicked
+20241019 21:50:11 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC10_CreateAccount ended with success......................
+20241019 21:50:12 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 21:50:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 21:51:25 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 21:51:25 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 21:51:27 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC10_CreateAccount started..................
+20241019 21:51:28 INFO  [main] base.BasePage BasePage.java42 - data is entered in the username
+20241019 21:51:28 INFO  [main] base.BasePage BasePage.java42 - data is entered in the password
+20241019 21:51:29 INFO  [main] base.BasePage BasePage.java54 - Login button is clicked
+20241019 21:51:29 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241019 21:51:31 INFO  [main] base.BasePage BasePage.java54 - Accounts Tab is clicked
+20241019 21:51:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC10_CreateAccount ended with success......................
+20241019 21:51:31 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 21:51:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 22:05:46 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 22:05:46 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 22:05:52 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC10_CreateAccount started..................
+20241019 22:05:55 INFO  [main] base.BasePage BasePage.java42 - data is entered in the username
+20241019 22:05:56 INFO  [main] base.BasePage BasePage.java42 - data is entered in the password
+20241019 22:05:57 INFO  [main] base.BasePage BasePage.java54 - Login button is clicked
+20241019 22:05:57 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241019 22:06:02 INFO  [main] base.BasePage BasePage.java54 - Accounts Tab is clicked
+20241019 22:06:02 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of New Button for maximum of 30sec
+20241019 22:06:03 INFO  [main] base.BasePage BasePage.java54 - New Button is clicked
+20241019 22:06:03 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC10_CreateAccount ended with failure.....................
+20241019 22:06:04 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 22:06:04 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 22:08:11 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 22:08:12 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 22:08:17 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC10_CreateAccount started..................
+20241019 22:08:20 INFO  [main] base.BasePage BasePage.java42 - data is entered in the username
+20241019 22:08:20 INFO  [main] base.BasePage BasePage.java42 - data is entered in the password
+20241019 22:08:21 INFO  [main] base.BasePage BasePage.java54 - Login button is clicked
+20241019 22:08:21 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241019 22:08:23 INFO  [main] base.BasePage BasePage.java54 - Accounts Tab is clicked
+20241019 22:08:23 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of New Button for maximum of 30sec
+20241019 22:08:24 INFO  [main] base.BasePage BasePage.java54 - New Button is clicked
+20241019 22:08:24 INFO  [main] base.BasePage BasePage.java42 - data is entered in the Accounts Name text 
+20241019 22:08:25 INFO  [main] base.BasePage BasePage.java134 - Waiting for Save Button to be clickable for maximum of 30sec
+20241019 22:08:27 INFO  [main] base.BasePage BasePage.java54 - Save Button is clicked
+20241019 22:08:27 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC10_CreateAccount ended with success......................
+20241019 22:08:27 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 22:08:27 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 22:22:32 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 22:22:33 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 22:22:39 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC10_CreateAccount started..................
+20241019 22:22:42 INFO  [main] base.BasePage BasePage.java42 - data is entered in the username
+20241019 22:22:42 INFO  [main] base.BasePage BasePage.java42 - data is entered in the password
+20241019 22:22:44 INFO  [main] base.BasePage BasePage.java54 - Login button is clicked
+20241019 22:22:44 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241019 22:22:48 INFO  [main] base.BasePage BasePage.java54 - Accounts Tab is clicked
+20241019 22:22:48 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of New Button for maximum of 30sec
+20241019 22:22:49 INFO  [main] base.BasePage BasePage.java54 - New Button is clicked
+20241019 22:22:49 INFO  [main] base.BasePage BasePage.java42 - data is entered in the Accounts Name text 
+20241019 22:22:50 INFO  [main] base.BasePage BasePage.java134 - Waiting for Save Button to be clickable for maximum of 30sec
+20241019 22:22:53 INFO  [main] base.BasePage BasePage.java54 - Save Button is clicked
+20241019 22:22:53 INFO  [main] base.BasePage BasePage.java146 - Waiting for visibility of Account Name for maximum of 30sec
+20241019 22:22:53 INFO  [main] base.BasePage BasePage.java68 - text is extracted from the Entered Account Name
+20241019 22:22:53 INFO  [main] base.BasePage BasePage.java146 - Waiting for visibility of Type for maximum of 30sec
+20241019 22:22:53 INFO  [main] base.BasePage BasePage.java68 - text is extracted from the Type
+20241019 22:22:53 INFO  [main] base.BasePage BasePage.java146 - Waiting for visibility of Customer Priority for maximum of 30sec
+20241019 22:22:54 INFO  [main] base.BasePage BasePage.java68 - text is extracted from the Customer Priority
+20241019 22:22:54 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC10_CreateAccount ended with success......................
+20241019 22:22:54 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 22:22:54 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 22:24:43 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 22:24:44 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 22:24:49 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC10_CreateAccount started..................
+20241019 22:24:53 INFO  [main] base.BasePage BasePage.java42 - data is entered in the username
+20241019 22:24:53 INFO  [main] base.BasePage BasePage.java42 - data is entered in the password
+20241019 22:24:54 INFO  [main] base.BasePage BasePage.java54 - Login button is clicked
+20241019 22:24:54 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241019 22:24:58 INFO  [main] base.BasePage BasePage.java54 - Accounts Tab is clicked
+20241019 22:24:58 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of New Button for maximum of 30sec
+20241019 22:24:59 INFO  [main] base.BasePage BasePage.java54 - New Button is clicked
+20241019 22:25:00 INFO  [main] base.BasePage BasePage.java42 - data is entered in the Accounts Name text 
+20241019 22:25:01 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC10_CreateAccount ended with failure.....................
+20241019 22:25:01 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 22:25:01 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 23:03:33 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 23:03:33 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 23:03:35 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241019 23:03:37 INFO  [main] base.BasePage BasePage.java42 - data is entered in the username
+20241019 23:03:37 INFO  [main] base.BasePage BasePage.java42 - data is entered in the password
+20241019 23:03:38 INFO  [main] base.BasePage BasePage.java54 - Login button is clicked
+20241019 23:03:38 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241019 23:03:40 INFO  [main] base.BasePage BasePage.java54 - Accounts Tab is clicked
+20241019 23:03:40 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241019 23:03:41 INFO  [main] base.BasePage BasePage.java54 - Create New View link  is clicked
+20241019 23:03:42 INFO  [main] base.BasePage BasePage.java42 - data is entered in the View Name 
+20241019 23:03:42 INFO  [main] base.BasePage BasePage.java42 - data is entered in the View Unique Name 
+20241019 23:03:42 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Save Button for maximum of 30sec
+20241019 23:03:42 INFO  [main] base.BasePage BasePage.java54 - Save Button is clicked
+20241019 23:03:43 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC11Accounts_CreateNewView ended with success......................
+20241019 23:03:44 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 23:03:44 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241019 23:06:23 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241019 23:06:23 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 23:06:25 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC10_CreateAccount started..................
+20241019 23:06:27 INFO  [main] base.BasePage BasePage.java42 - data is entered in the username
+20241019 23:06:27 INFO  [main] base.BasePage BasePage.java42 - data is entered in the password
+20241019 23:06:28 INFO  [main] base.BasePage BasePage.java54 - Login button is clicked
+20241019 23:06:28 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241019 23:06:30 INFO  [main] base.BasePage BasePage.java54 - Accounts Tab is clicked
+20241019 23:06:30 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of New Button for maximum of 30sec
+20241019 23:06:31 INFO  [main] base.BasePage BasePage.java54 - New Button is clicked
+20241019 23:06:31 INFO  [main] base.BasePage BasePage.java42 - data is entered in the Accounts Name text 
+20241019 23:06:32 INFO  [main] base.BasePage BasePage.java134 - Waiting for Save Button to be clickable for maximum of 30sec
+20241019 23:06:33 INFO  [main] base.BasePage BasePage.java54 - Save Button is clicked
+20241019 23:06:33 INFO  [main] base.BasePage BasePage.java146 - Waiting for visibility of Account Name for maximum of 30sec
+20241019 23:06:34 INFO  [main] base.BasePage BasePage.java68 - text is extracted from the Entered Account Name
+20241019 23:06:34 INFO  [main] base.BasePage BasePage.java146 - Waiting for visibility of Type for maximum of 30sec
+20241019 23:06:34 INFO  [main] base.BasePage BasePage.java68 - text is extracted from the Type
+20241019 23:06:34 INFO  [main] base.BasePage BasePage.java146 - Waiting for visibility of Customer Priority for maximum of 30sec
+20241019 23:06:34 INFO  [main] base.BasePage BasePage.java68 - text is extracted from the Customer Priority
+20241019 23:06:34 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC10_CreateAccount ended with success......................
+20241019 23:06:34 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 23:06:34 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241019 23:06:36 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241019 23:06:37 INFO  [main] base.BasePage BasePage.java42 - data is entered in the username
+20241019 23:06:37 INFO  [main] base.BasePage BasePage.java42 - data is entered in the password
+20241019 23:06:38 INFO  [main] base.BasePage BasePage.java54 - Login button is clicked
+20241019 23:06:38 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241019 23:06:40 INFO  [main] base.BasePage BasePage.java54 - Accounts Tab is clicked
+20241019 23:06:40 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241019 23:06:41 INFO  [main] base.BasePage BasePage.java54 - Create New View link  is clicked
+20241019 23:06:41 INFO  [main] base.BasePage BasePage.java42 - data is entered in the View Name 
+20241019 23:06:41 INFO  [main] base.BasePage BasePage.java42 - data is entered in the View Unique Name 
+20241019 23:06:41 INFO  [main] base.BasePage BasePage.java111 - Waiting for visibility of Save Button for maximum of 30sec
+20241019 23:06:42 INFO  [main] base.BasePage BasePage.java54 - Save Button is clicked
+20241019 23:06:42 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC11Accounts_CreateNewView ended with failure.....................
+20241019 23:06:42 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241019 23:06:42 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 07:45:53 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 07:45:53 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:45:55 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC15_VerifyOpportunitiesDropDown started..................
+20241020 07:45:56 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:45:56 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:45:57 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:45:57 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Tab for maximum of 30sec
+20241020 07:46:00 INFO  [main] base.BasePage BasePage.java57 - Opportunity Tab is clicked
+20241020 07:46:00 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Dropdown for maximum of 30sec
+20241020 07:46:00 INFO  [main] base.BasePage BasePage.java57 - View Opportunity Dropdown is clicked
+20241020 07:46:00 INFO  [main] base.BasePage BasePage.java205 - dropdown values :All Opportunities
+20241020 07:46:00 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing Next Month
+20241020 07:46:01 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing This Month
+20241020 07:46:01 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Opportunities
+20241020 07:46:01 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New Last Week
+20241020 07:46:01 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New This Week
+20241020 07:46:01 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Opportunity Pipeline
+20241020 07:46:01 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Private
+20241020 07:46:01 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Recently Viewed Opportunities
+20241020 07:46:01 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Won
+20241020 07:46:01 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC15_VerifyOpportunitiesDropDown ended with success......................
+20241020 07:46:01 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:46:01 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 07:46:47 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 07:46:47 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:46:49 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC15_VerifyOpportunitiesDropDown started..................
+20241020 07:46:50 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:46:50 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:46:51 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:46:51 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Tab for maximum of 30sec
+20241020 07:46:53 INFO  [main] base.BasePage BasePage.java57 - Opportunity Tab is clicked
+20241020 07:46:53 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Dropdown for maximum of 30sec
+20241020 07:46:53 INFO  [main] base.BasePage BasePage.java57 - View Opportunity Dropdown is clicked
+20241020 07:46:53 INFO  [main] base.BasePage BasePage.java205 - dropdown values :All Opportunities
+20241020 07:46:53 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing Next Month
+20241020 07:46:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing This Month
+20241020 07:46:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Opportunities
+20241020 07:46:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New Last Week
+20241020 07:46:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New This Week
+20241020 07:46:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Opportunity Pipeline
+20241020 07:46:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Private
+20241020 07:46:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Recently Viewed Opportunities
+20241020 07:46:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Won
+20241020 07:46:55 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC15_VerifyOpportunitiesDropDown ended with failure.....................
+20241020 07:46:55 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:46:55 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 07:49:29 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 07:49:29 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:49:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC15_VerifyOpportunitiesDropDown started..................
+20241020 07:49:31 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:49:32 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:49:32 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:49:32 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Tab for maximum of 30sec
+20241020 07:49:35 INFO  [main] base.BasePage BasePage.java57 - Opportunity Tab is clicked
+20241020 07:49:35 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Dropdown for maximum of 30sec
+20241020 07:49:35 INFO  [main] base.BasePage BasePage.java57 - View Opportunity Dropdown is clicked
+20241020 07:49:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :All Opportunities
+20241020 07:49:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing Next Month
+20241020 07:49:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing This Month
+20241020 07:49:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Opportunities
+20241020 07:49:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New Last Week
+20241020 07:49:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New This Week
+20241020 07:49:36 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Opportunity Pipeline
+20241020 07:49:36 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Private
+20241020 07:49:36 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Recently Viewed Opportunities
+20241020 07:49:36 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Won
+20241020 07:49:36 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC15_VerifyOpportunitiesDropDown ended with failure.....................
+20241020 07:49:36 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:49:36 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 07:52:33 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 07:52:34 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:52:35 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC5_UserMenuDropDown started..................
+20241020 07:52:36 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:52:36 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:52:37 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:52:37 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241020 07:52:39 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241020 07:52:41 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Profile
+20241020 07:52:41 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Settings
+20241020 07:52:41 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Developer Console
+20241020 07:52:41 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Switch to Lightning Experience
+20241020 07:52:41 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Logout
+20241020 07:52:41 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC5_UserMenuDropDown ended with failure.....................
+20241020 07:52:41 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:52:41 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 07:53:28 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 07:53:28 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:53:30 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC5_UserMenuDropDown started..................
+20241020 07:53:30 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:53:31 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:53:32 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:53:32 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241020 07:53:33 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241020 07:53:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Profile
+20241020 07:53:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Settings
+20241020 07:53:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Developer Console
+20241020 07:53:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Switch to Lightning Experience
+20241020 07:53:35 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Logout
+20241020 07:53:35 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC5_UserMenuDropDown ended with success......................
+20241020 07:53:36 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:53:36 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 07:58:25 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - SalesForceLoginTest started...............
+20241020 07:58:25 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:58:27 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC1SalesforceLogin_BlankPwd started..................
+20241020 07:58:28 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:58:28 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:58:28 INFO  [main] tests.LoginTests LoginTests.java31 - login blank pwd test completed
+20241020 07:58:28 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241020 07:58:29 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:58:29 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:58:30 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC2SalesforceLoginValid started..................
+20241020 07:58:30 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:58:31 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:58:32 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:58:32 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241020 07:58:33 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Getting Started Home page header
+20241020 07:58:33 INFO  [main] tests.LoginTests LoginTests.java51 - valid login test completed
+20241020 07:58:33 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC2SalesforceLoginValid ended with success......................
+20241020 07:58:33 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:58:33 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:58:34 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC3ValidateRememberMe started..................
+20241020 07:58:35 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:58:35 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:58:35 INFO  [main] base.BasePage BasePage.java57 - Remember Me checkbox  is clicked
+20241020 07:58:36 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:58:36 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241020 07:58:38 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241020 07:58:38 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241020 07:58:38 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241020 07:58:38 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of username for maximum of 30sec
+20241020 07:58:39 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Remembered user name
+20241020 07:58:39 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC3ValidateRememberMe ended with success......................
+20241020 07:58:39 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:58:39 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:58:40 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4A_ForgotPassword started..................
+20241020 07:58:40 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241020 07:58:41 INFO  [main] base.BasePage BasePage.java57 - Forgot your password is clicked
+20241020 07:58:41 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:58:41 INFO  [main] base.BasePage BasePage.java57 - Continue button is clicked
+20241020 07:58:41 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Check your email message for maximum of 30sec
+20241020 07:58:41 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Check your email message
+20241020 07:58:41 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4A_ForgotPassword ended with success......................
+20241020 07:58:41 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:58:41 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:58:43 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC4B_ValidateLoginErrorMsg started..................
+20241020 07:58:43 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:58:43 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:58:44 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:58:44 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Wrong password error message for maximum of 30sec
+20241020 07:58:44 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Invalid login error msg
+20241020 07:58:44 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC4B_ValidateLoginErrorMsg ended with success......................
+20241020 07:58:44 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:58:44 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:58:45 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC5_UserMenuDropDown started..................
+20241020 07:58:46 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:58:46 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:58:47 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:58:47 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241020 07:58:48 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241020 07:58:50 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Profile
+20241020 07:58:50 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Settings
+20241020 07:58:50 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Developer Console
+20241020 07:58:50 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Switch to Lightning Experience
+20241020 07:58:50 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Logout
+20241020 07:58:50 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC5_UserMenuDropDown ended with success......................
+20241020 07:58:51 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:58:51 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:58:52 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC9_LogoutSalesForce started..................
+20241020 07:58:56 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:58:56 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:58:57 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:58:57 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241020 07:58:58 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241020 07:58:58 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241020 07:58:58 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241020 07:58:58 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC9_LogoutSalesForce ended with success......................
+20241020 07:58:58 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:58:58 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:59:00 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC10_CreateAccount started..................
+20241020 07:59:00 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:59:01 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:59:01 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:59:01 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 07:59:04 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 07:59:04 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of New Button for maximum of 30sec
+20241020 07:59:04 INFO  [main] base.BasePage BasePage.java57 - New Button is clicked
+20241020 07:59:04 INFO  [main] base.BasePage BasePage.java45 - data is entered in the Accounts Name text 
+20241020 07:59:05 INFO  [main] base.BasePage BasePage.java137 - Waiting for Save Button to be clickable for maximum of 30sec
+20241020 07:59:07 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 07:59:07 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of Account Name for maximum of 30sec
+20241020 07:59:07 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Entered Account Name
+20241020 07:59:07 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of Type for maximum of 30sec
+20241020 07:59:07 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Type
+20241020 07:59:07 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of Customer Priority for maximum of 30sec
+20241020 07:59:07 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Customer Priority
+20241020 07:59:07 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC10_CreateAccount ended with success......................
+20241020 07:59:07 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:59:07 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:59:08 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241020 07:59:09 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:59:09 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:59:10 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:59:10 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 07:59:12 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 07:59:12 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241020 07:59:12 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241020 07:59:13 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241020 07:59:13 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241020 07:59:13 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241020 07:59:13 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 07:59:13 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC11Accounts_CreateNewView ended with failure.....................
+20241020 07:59:13 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:59:13 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 07:59:15 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC15_VerifyOpportunitiesDropDown started..................
+20241020 07:59:15 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 07:59:15 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 07:59:16 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 07:59:16 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Tab for maximum of 30sec
+20241020 07:59:19 INFO  [main] base.BasePage BasePage.java57 - Opportunity Tab is clicked
+20241020 07:59:19 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Dropdown for maximum of 30sec
+20241020 07:59:19 INFO  [main] base.BasePage BasePage.java57 - View Opportunity Dropdown is clicked
+20241020 07:59:19 INFO  [main] base.BasePage BasePage.java205 - dropdown values :All Opportunities
+20241020 07:59:19 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing Next Month
+20241020 07:59:19 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing This Month
+20241020 07:59:19 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Opportunities
+20241020 07:59:20 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New Last Week
+20241020 07:59:20 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New This Week
+20241020 07:59:20 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Opportunity Pipeline
+20241020 07:59:20 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Private
+20241020 07:59:20 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Recently Viewed Opportunities
+20241020 07:59:20 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Won
+20241020 07:59:20 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC15_VerifyOpportunitiesDropDown ended with failure.....................
+20241020 07:59:20 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 07:59:20 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - SalesForceLoginTest ended.................
+20241020 08:08:40 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 08:08:40 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 08:08:42 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241020 08:08:42 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 08:08:42 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 08:08:44 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 08:08:44 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 08:08:45 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 08:08:45 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241020 08:08:46 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241020 08:08:46 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241020 08:08:46 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241020 08:08:46 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241020 08:08:47 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 08:08:47 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC11Accounts_CreateNewView ended with failure.....................
+20241020 08:08:47 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 08:08:47 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 08:11:16 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 08:11:17 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 08:11:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241020 08:11:19 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 08:11:20 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 08:11:20 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 08:11:20 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 08:11:22 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 08:11:22 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241020 08:11:23 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241020 08:11:23 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241020 08:11:23 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241020 08:11:23 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241020 08:11:23 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 08:11:23 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC11Accounts_CreateNewView ended with failure.....................
+20241020 08:11:24 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 08:11:24 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 08:13:52 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 08:13:52 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 08:13:54 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241020 08:13:54 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 08:13:55 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 08:13:56 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 08:13:56 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 08:13:57 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 08:13:57 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241020 08:13:58 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241020 08:13:58 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241020 08:13:58 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241020 08:13:58 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241020 08:13:59 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 08:13:59 INFO  [main] base.BaseTest BaseTest.java94 - screen captured
+20241020 08:13:59 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java39 - TC11Accounts_CreateNewView ended with success......................
+20241020 08:13:59 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 08:13:59 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 08:29:05 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 08:29:05 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 08:29:07 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241020 08:29:07 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 08:29:08 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 08:29:08 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 08:29:08 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 08:29:10 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 08:29:10 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241020 08:29:11 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241020 08:29:11 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241020 08:29:11 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241020 08:29:11 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241020 08:29:11 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 08:29:12 INFO  [main] base.BaseTest BaseTest.java94 - screen captured
+20241020 08:29:12 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC11Accounts_CreateNewView ended with failure.....................
+20241020 08:29:12 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 08:29:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 08:32:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 08:32:12 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 08:32:14 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241020 08:32:15 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 08:32:15 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 08:32:16 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 08:32:16 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 08:32:18 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 08:32:18 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241020 08:32:18 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241020 08:32:19 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241020 08:32:19 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241020 08:32:19 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241020 08:32:19 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 08:32:19 INFO  [main] base.BaseTest BaseTest.java94 - screen captured
+20241020 08:32:19 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC11Accounts_CreateNewView ended with failure.....................
+20241020 08:32:19 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 08:32:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 08:35:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 08:35:12 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 08:35:14 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241020 08:35:15 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 08:35:15 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 08:35:16 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 08:35:16 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 08:35:18 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 08:35:18 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241020 08:35:18 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241020 08:35:18 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241020 08:35:19 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241020 08:35:19 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241020 08:35:19 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 08:35:19 INFO  [main] base.BaseTest BaseTest.java94 - screen captured
+20241020 08:35:19 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC11Accounts_CreateNewView ended with failure.....................
+20241020 08:35:19 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 08:35:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 08:37:30 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java17 - Default test started...............
+20241020 08:37:30 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 08:37:32 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java31 - TC11Accounts_CreateNewView started..................
+20241020 08:37:32 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 08:37:33 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 08:37:33 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 08:37:33 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 08:37:35 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 08:37:35 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241020 08:37:36 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241020 08:37:36 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241020 08:37:36 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241020 08:37:36 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241020 08:37:36 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 08:37:37 INFO  [main] base.BaseTest BaseTest.java94 - screen captured
+20241020 08:37:37 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - TC11Accounts_CreateNewView ended with failure.....................
+20241020 08:37:37 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 08:37:37 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java23 - Default test ended.................
+20241020 09:02:09 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java19 - Default test started...............
+20241020 09:02:10 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241020 09:02:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC11Accounts_CreateNewView started..................
+20241020 09:02:12 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241020 09:02:13 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241020 09:02:14 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241020 09:02:14 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241020 09:02:16 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241020 09:02:16 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241020 09:02:17 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241020 09:02:17 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241020 09:02:17 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241020 09:02:17 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241020 09:02:17 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241020 09:02:17 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java49 - TC11Accounts_CreateNewView ended with failure.....................
+20241020 09:02:18 INFO  [main] base.BaseTest BaseTest.java94 - screen captured
+20241020 09:02:18 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241020 09:02:18 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java25 - Default test ended.................
+20241023 22:31:02 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java19 - Default test started...............
+20241023 22:31:02 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241023 22:31:04 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC1SalesforceLogin_BlankPwd started..................
+20241023 22:31:05 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241023 22:31:05 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241023 22:31:05 INFO  [main] tests.LoginTests LoginTests.java31 - login blank pwd test completed
+20241023 22:31:05 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241023 22:31:05 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241023 22:31:05 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241023 22:31:06 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC2SalesforceLoginValid started..................
+20241023 22:31:07 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241023 22:31:07 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241023 22:31:08 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241023 22:31:08 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241023 22:31:09 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Getting Started Home page header
+20241023 22:31:09 INFO  [main] tests.LoginTests LoginTests.java51 - valid login test completed
+20241023 22:31:09 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC2SalesforceLoginValid ended with success......................
+20241023 22:31:09 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241023 22:31:09 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241023 22:31:11 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC3ValidateRememberMe started..................
+20241023 22:31:11 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241023 22:31:11 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241023 22:31:11 INFO  [main] base.BasePage BasePage.java57 - Remember Me checkbox  is clicked
+20241023 22:31:12 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241023 22:31:12 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241023 22:31:13 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241023 22:31:13 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241023 22:31:14 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241023 22:31:14 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of username for maximum of 30sec
+20241023 22:31:15 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Remembered user name
+20241023 22:31:15 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC3ValidateRememberMe ended with success......................
+20241023 22:31:15 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241023 22:31:15 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241023 22:31:16 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC4A_ForgotPassword started..................
+20241023 22:31:16 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241023 22:31:16 INFO  [main] base.BasePage BasePage.java57 - Forgot your password is clicked
+20241023 22:31:17 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241023 22:31:17 INFO  [main] base.BasePage BasePage.java57 - Continue button is clicked
+20241023 22:31:17 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Check your email message for maximum of 30sec
+20241023 22:31:17 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Check your email message
+20241023 22:31:17 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC4A_ForgotPassword ended with success......................
+20241023 22:31:17 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241023 22:31:17 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241023 22:31:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC4B_ValidateLoginErrorMsg started..................
+20241023 22:31:19 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241023 22:31:19 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241023 22:31:19 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241023 22:31:19 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Wrong password error message for maximum of 30sec
+20241023 22:31:19 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Invalid login error msg
+20241023 22:31:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC4B_ValidateLoginErrorMsg ended with success......................
+20241023 22:31:19 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241023 22:31:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java25 - Default test ended.................
+20241024 10:53:38 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java19 - Default test started...............
+20241024 10:53:38 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241024 10:53:42 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC3ValidateRememberMe started..................
+20241024 10:53:42 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241024 10:53:43 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241024 10:53:43 INFO  [main] base.BasePage BasePage.java57 - Remember Me checkbox  is clicked
+20241024 10:53:44 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241024 10:53:44 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241024 10:53:45 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241024 10:53:45 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241024 10:53:46 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241024 10:53:46 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java49 - TC3ValidateRememberMe ended with failure.....................
+20241024 10:53:46 INFO  [main] base.BaseTest BaseTest.java96 - screen captured
+20241024 10:53:46 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241024 10:53:46 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java25 - Default test ended.................
+20241024 10:54:55 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java19 - Default test started...............
+20241024 10:54:55 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241024 10:54:57 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC3ValidateRememberMe started..................
+20241024 10:54:58 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241024 10:54:59 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241024 10:54:59 INFO  [main] base.BasePage BasePage.java57 - Remember Me checkbox  is clicked
+20241024 10:55:00 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241024 10:55:00 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241024 10:55:01 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241024 10:55:01 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241024 10:55:02 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241024 10:55:02 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java49 - TC3ValidateRememberMe ended with failure.....................
+20241024 10:55:02 INFO  [main] base.BaseTest BaseTest.java96 - screen captured
+20241024 10:55:02 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241024 10:55:02 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java25 - Default test ended.................
+20241024 10:58:38 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java19 - Default test started...............
+20241024 10:58:38 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241024 10:58:40 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC3ValidateRememberMe started..................
+20241024 10:58:40 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241024 10:58:41 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241024 10:58:41 INFO  [main] base.BasePage BasePage.java57 - Remember Me checkbox  is clicked
+20241024 10:58:42 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241024 10:58:42 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241024 10:58:43 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241024 10:58:43 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241024 10:58:43 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241024 10:58:43 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java49 - TC3ValidateRememberMe ended with failure.....................
+20241024 10:58:43 INFO  [main] base.BaseTest BaseTest.java96 - screen captured
+20241024 10:58:43 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241024 10:58:43 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java25 - Default test ended.................
+20241024 11:00:09 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java19 - Default test started...............
+20241024 11:00:09 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241024 11:00:11 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC3ValidateRememberMe started..................
+20241024 11:00:11 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241024 11:00:12 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241024 11:00:12 INFO  [main] base.BasePage BasePage.java57 - Remember Me checkbox  is clicked
+20241024 11:00:13 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241024 11:00:13 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241024 11:00:14 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241024 11:00:14 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241024 11:00:15 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241024 11:00:15 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java49 - TC3ValidateRememberMe ended with failure.....................
+20241024 11:00:15 INFO  [main] base.BaseTest BaseTest.java96 - screen captured
+20241024 11:00:15 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241024 11:00:15 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java25 - Default test ended.................
+20241024 16:14:34 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java19 - Default test started...............
+20241024 16:14:34 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241024 16:14:37 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC3ValidateRememberMe started..................
+20241024 16:14:37 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241024 16:14:38 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241024 16:14:38 INFO  [main] base.BasePage BasePage.java57 - Remember Me checkbox  is clicked
+20241024 16:14:39 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241024 16:14:39 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241024 16:14:41 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241024 16:14:41 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241024 16:14:41 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241024 16:14:45 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of username for maximum of 30sec
+20241024 16:14:45 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Remembered user name
+20241024 16:14:45 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC3ValidateRememberMe ended with success......................
+20241024 16:14:45 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241024 16:14:45 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java25 - Default test ended.................
+20241025 19:33:55 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java19 - SalesForceLoginTest started...............
+20241025 19:33:55 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:33:58 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC1SalesforceLogin_BlankPwd started..................
+20241025 19:33:59 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:34:00 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241025 19:34:00 INFO  [main] tests.LoginTests LoginTests.java31 - login blank pwd test completed
+20241025 19:34:00 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC1SalesforceLogin_BlankPwd ended with success......................
+20241025 19:34:00 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:34:00 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:34:02 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC2SalesforceLoginValid started..................
+20241025 19:34:03 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:34:04 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241025 19:34:05 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241025 19:34:05 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of Getting Started Home page header for maximum of 60sec
+20241025 19:34:07 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Getting Started Home page header
+20241025 19:34:07 INFO  [main] tests.LoginTests LoginTests.java51 - valid login test completed
+20241025 19:34:07 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC2SalesforceLoginValid ended with success......................
+20241025 19:34:07 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:34:07 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:34:09 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC3ValidateRememberMe started..................
+20241025 19:34:10 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:34:11 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241025 19:34:11 INFO  [main] base.BasePage BasePage.java57 - Remember Me checkbox  is clicked
+20241025 19:34:12 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241025 19:34:12 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241025 19:34:13 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241025 19:34:13 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241025 19:34:14 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241025 19:34:18 INFO  [main] login.LoginPage LoginPage.java60 - login page displayed
+20241025 19:34:18 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of username for maximum of 30sec
+20241025 19:34:18 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Remembered user name
+20241025 19:34:18 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC3ValidateRememberMe ended with success......................
+20241025 19:34:19 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:34:19 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:34:21 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC4A_ForgotPassword started..................
+20241025 19:34:21 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Forgot your password for maximum of 30sec
+20241025 19:34:21 INFO  [main] base.BasePage BasePage.java57 - Forgot your password is clicked
+20241025 19:34:21 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:34:22 INFO  [main] base.BasePage BasePage.java57 - Continue button is clicked
+20241025 19:34:22 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Check your email message for maximum of 30sec
+20241025 19:34:22 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Check your email message
+20241025 19:34:22 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC4A_ForgotPassword ended with success......................
+20241025 19:34:22 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:34:22 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:34:24 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC4B_ValidateLoginErrorMsg started..................
+20241025 19:34:25 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:34:26 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241025 19:34:26 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241025 19:34:26 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Wrong password error message for maximum of 30sec
+20241025 19:34:26 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Invalid login error msg
+20241025 19:34:26 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC4B_ValidateLoginErrorMsg ended with success......................
+20241025 19:34:26 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:34:26 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:34:28 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC10_CreateAccount started..................
+20241025 19:34:30 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:34:30 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241025 19:34:30 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241025 19:34:30 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241025 19:34:33 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241025 19:34:33 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of New Button for maximum of 30sec
+20241025 19:34:33 INFO  [main] base.BasePage BasePage.java57 - New Button is clicked
+20241025 19:34:34 INFO  [main] base.BasePage BasePage.java45 - data is entered in the Accounts Name text 
+20241025 19:34:35 INFO  [main] base.BasePage BasePage.java137 - Waiting for Save Button to be clickable for maximum of 30sec
+20241025 19:34:37 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241025 19:34:37 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of Account Name for maximum of 30sec
+20241025 19:34:37 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Entered Account Name
+20241025 19:34:37 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of Type for maximum of 30sec
+20241025 19:34:37 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Type
+20241025 19:34:37 INFO  [main] base.BasePage BasePage.java149 - Waiting for visibility of Customer Priority for maximum of 30sec
+20241025 19:34:37 INFO  [main] base.BasePage BasePage.java71 - text is extracted from the Customer Priority
+20241025 19:34:37 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC10_CreateAccount ended with success......................
+20241025 19:34:38 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:34:38 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:34:39 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC11Accounts_CreateNewView started..................
+20241025 19:34:40 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:34:41 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241025 19:34:42 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241025 19:34:42 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Accounts Tab for maximum of 30sec
+20241025 19:34:44 INFO  [main] base.BasePage BasePage.java57 - Accounts Tab is clicked
+20241025 19:34:44 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Create New View link  for maximum of 30sec
+20241025 19:34:45 INFO  [main] base.BasePage BasePage.java57 - Create New View link  is clicked
+20241025 19:34:45 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Name 
+20241025 19:34:45 INFO  [main] base.BasePage BasePage.java45 - data is entered in the View Unique Name 
+20241025 19:34:45 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Save Button for maximum of 30sec
+20241025 19:34:46 INFO  [main] base.BasePage BasePage.java57 - Save Button is clicked
+20241025 19:34:46 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java49 - TC11Accounts_CreateNewView ended with failure.....................
+20241025 19:34:46 INFO  [main] base.BaseTest BaseTest.java96 - screen captured
+20241025 19:34:46 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:34:46 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:34:48 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC15_VerifyOpportunitiesDropDown started..................
+20241025 19:34:49 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:34:50 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241025 19:34:51 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241025 19:34:51 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Tab for maximum of 30sec
+20241025 19:34:53 INFO  [main] base.BasePage BasePage.java57 - Opportunity Tab is clicked
+20241025 19:34:53 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Opportunity Dropdown for maximum of 30sec
+20241025 19:34:53 INFO  [main] base.BasePage BasePage.java57 - View Opportunity Dropdown is clicked
+20241025 19:34:53 INFO  [main] base.BasePage BasePage.java205 - dropdown values :All Opportunities
+20241025 19:34:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing Next Month
+20241025 19:34:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Closing This Month
+20241025 19:34:54 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Opportunities
+20241025 19:34:55 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New Last Week
+20241025 19:34:55 INFO  [main] base.BasePage BasePage.java205 - dropdown values :New This Week
+20241025 19:34:55 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Opportunity Pipeline
+20241025 19:34:55 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Private
+20241025 19:34:56 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Recently Viewed Opportunities
+20241025 19:34:56 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Won
+20241025 19:34:56 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC15_VerifyOpportunitiesDropDown ended with success......................
+20241025 19:34:56 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:34:56 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:34:58 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC5_UserMenuDropDown started..................
+20241025 19:35:00 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:35:00 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241025 19:35:01 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241025 19:35:01 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241025 19:35:03 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241025 19:35:05 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Profile
+20241025 19:35:05 INFO  [main] base.BasePage BasePage.java205 - dropdown values :My Settings
+20241025 19:35:05 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Developer Console
+20241025 19:35:05 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Switch to Lightning Experience
+20241025 19:35:05 INFO  [main] base.BasePage BasePage.java205 - dropdown values :Logout
+20241025 19:35:05 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC5_UserMenuDropDown ended with success......................
+20241025 19:35:05 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:35:05 INFO  [main] base.BaseTest BaseTest.java42 - *******************setUpBeforeMethod*********************
+20241025 19:35:07 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java33 - TC9_LogoutSalesForce started..................
+20241025 19:35:09 INFO  [main] base.BasePage BasePage.java45 - data is entered in the username
+20241025 19:35:09 INFO  [main] base.BasePage BasePage.java45 - data is entered in the password
+20241025 19:35:10 INFO  [main] base.BasePage BasePage.java57 - Login button is clicked
+20241025 19:35:10 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of User Menu dropdown for maximum of 30sec
+20241025 19:35:12 INFO  [main] base.BasePage BasePage.java57 - User Menu dropdown is clicked
+20241025 19:35:12 INFO  [main] base.BasePage BasePage.java114 - Waiting for visibility of Logout option from user menu for maximum of 30sec
+20241025 19:35:12 INFO  [main] base.BasePage BasePage.java57 - Logout option from User Menu is clicked
+20241025 19:35:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - TC9_LogoutSalesForce ended with success......................
+20241025 19:35:12 INFO  [main] base.BaseTest BaseTest.java52 - *******************tearDownAfterTestMethod*********************
+20241025 19:35:12 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java25 - SalesForceLoginTest ended.................
